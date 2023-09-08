@@ -13,7 +13,7 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Mohan_X_bot>Mᴏᴠɪᴇs Pʀᴏᴠɪᴅᴇ Bᴏᴛ</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Movies_chatbot>Mᴏᴠɪᴇs Pʀᴏᴠɪᴅᴇ Bᴏᴛ</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Rexisop99'>Rᴀᴍʙᴏ</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
@@ -28,11 +28,11 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️</b>
 
 
-Developer - <a href='https://t.me/Rexisop99'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+Developer - <a href='https://t.me/NB4979'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 special Thanks To ❤️ Devs -
 
-<a href='https://t.me/Rexisop99'>Oᴡɴᴇʀ ᴏғ Bᴏᴛ</a>
+<a href='https://t.me/NB4979'>Oᴡɴᴇʀ ᴏғ Bᴏᴛ</a>
 Dᴇᴠ 2 - Rɪᴏ Nᴇᴛᴡᴏʀᴋ
 Tʜᴀɴᴋs ᴛᴏ - Lᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀ...
 """
@@ -87,9 +87,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Rexisop99>➥ Rᴀᴍʙᴏ ⸙</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/NB4979>➥ Rᴀᴍʙᴏ ⸙</a></b>
   
- <b>✯ Join here : <a href=https://t.me/MOVIES_PROVIDE>☞ Jᴏɪɴ Mʏ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ⸙</a></b> 
+ <b>✯ Join here : <a href=https://t.me/+-8ibCwo26o44MGM1>☞ Jᴏɪɴ Mʏ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ⸙</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -187,7 +187,7 @@ Nᴀᴍᴇ - {}"""
 💫 Iɴ Oɴʟʏ 40/- Pᴇʀ Mᴏɴᴛʜ.....
 ۞ Buy Fast ..
 
-Any Doubts or Not Connecting? Contact Me @Rexisop99 </b>
+Any Doubts or Not Connecting? Contact Me @NB4979 </b>
 """
 
     REQINFO = """
@@ -233,7 +233,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 <i><b>🎭 Genre ›</b><i> <i><b>{genres}</b></i>
 <i><b>⭐ Rating ›</b></i> <i><b> {rating} / 10 </b></i>
 
-<i><b>🔆 Join »</b></i>  <i><b>@Movies_Provide</b></i>
+<i><b>🔆 Join »</b></i>  <i><b>@Movies_chatbot</b></i>
 
 <i><b>Select Any File From Below To Download 👇</b></i>"""
     
